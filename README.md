@@ -37,3 +37,7 @@ https://docs.google.com/spreadsheets/d/1lzuPmp0t6xrTFiqUgGP8_RuPS-JhaTNecG47ScUx
 2. Detectar qué departamentos aportan más al negocio. 
 3. Identificar los departamentos de los que no se saca el máximo provecho en ventas.
 4. Saber hacia qué departamentos enfocar el presupuesto y dónde ajustar el inventario.
+
+🗣️ Recomendación de negocio:
+- El departamento de "Snacks y Bebidas" tuvo el porcentaje menor con 6.35% sobre el total de ventas del 2012 y se recomienda aumentar y/o mejorar la promociones para éste departamento.
+- En el caso de "Despensa y Básicos" fue el más eficiente con $652.81 de ventas por m2 y un 15.23% de participación durante el 2012 lo que lleva a recomendar priorizar el presupuesto e inventario para éste departamento y mantener y/o mejorar esa calidad de productos.
