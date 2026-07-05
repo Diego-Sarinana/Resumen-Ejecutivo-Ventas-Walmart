@@ -1,7 +1,8 @@
 # Resumen-Ejecutivo-Ventas-Walmart
 Resumen ejecutivo para la Dirección Comercial de Walmart para decidir ajustes de presupuesto e inventario llevado a cabo en Google Sheets
 
-## 🗃️ Datos: Datasets divididos en hojas en Google Sheets nombradas;
+## 🗃️ Datos: 
+- Datasets divididos en hojas en Google Sheets nombradas;
 
 raw_ventas → Tabla transaccional que incluye todos los datos de cada venta (tienda, dept, fecha, ventas_semanales, esferiado).
 
